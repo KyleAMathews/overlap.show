@@ -1,0 +1,295 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "component": "C:/Users/Craticula/Documents/Websites/overlap.show/.cache/dev-404-page.js",
+      "path": "/dev-404-page/",
+      "componentChunkName": "page-component---cache-dev-404-page-js",
+      "jsonName": "dev-404-page.json",
+      "internalComponentName": "ComponentDev404Page",
+      "context": {},
+      "id": "SitePage /dev-404-page/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "mediaType": "application/json",
+        "type": "SitePage",
+        "content": "{\"component\":\"C:/Users/Craticula/Documents/Websites/overlap.show/.cache/dev-404-page.js\",\"path\":\"/dev-404-page/\",\"componentChunkName\":\"page-component---cache-dev-404-page-js\",\"jsonName\":\"dev-404-page.json\",\"internalComponentName\":\"ComponentDev404Page\",\"context\":{}}",
+        "contentDigest": "74375f69341aa8d935af1bb12ddcb006",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-page-creator": {
+      "resolve": "C:/Users/Craticula/Documents/Websites/overlap.show/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "name": "component-page-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "packageJson": {
+        "name": "component-page-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/pages",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "id": "Plugin component-page-creator",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "a93741254c184af00b514fcc11d07441",
+        "mediaType": "application/json",
+        "content": "{\"resolve\":\"C:/Users/Craticula/Documents/Websites/overlap.show/node_modules/gatsby/dist/internal-plugins/component-page-creator\",\"name\":\"component-page-creator\",\"version\":\"1.0.0\",\"pluginOptions\":{\"plugins\":[]}}",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin internal-data-bridge": {
+      "resolve": "C:/Users/Craticula/Documents/Websites/overlap.show/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "id": "Plugin internal-data-bridge",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "f2c4f4d17c22a0c8f72528ca5bb69ab2",
+        "mediaType": "application/json",
+        "content": "{\"resolve\":\"C:/Users/Craticula/Documents/Websites/overlap.show/node_modules/gatsby/dist/internal-plugins/internal-data-bridge\",\"name\":\"internal-data-bridge\",\"version\":\"1.0.0\",\"pluginOptions\":{\"plugins\":[]}}",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin dev-404-page": {
+      "resolve": "C:/Users/Craticula/Documents/Websites/overlap.show/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "id": "Plugin dev-404-page",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "0af215e2c89a0f41160aecdaab9320b6",
+        "mediaType": "application/json",
+        "content": "{\"resolve\":\"C:/Users/Craticula/Documents/Websites/overlap.show/node_modules/gatsby/dist/internal-plugins/dev-404-page\",\"name\":\"dev-404-page\",\"version\":\"1.0.0\",\"pluginOptions\":{\"plugins\":[]}}",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin query-runner": {
+      "resolve": "C:/Users/Craticula/Documents/Websites/overlap.show/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "id": "Plugin query-runner",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "e590c25d8949c412333cadc1ee3c7c5a",
+        "mediaType": "application/json",
+        "content": "{\"resolve\":\"C:/Users/Craticula/Documents/Websites/overlap.show/node_modules/gatsby/dist/internal-plugins/query-runner\",\"name\":\"query-runner\",\"version\":\"1.0.0\",\"pluginOptions\":{\"plugins\":[]}}",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin default-site-plugin": {
+      "resolve": "C:/Users/Craticula/Documents/Websites/overlap.show",
+      "name": "default-site-plugin",
+      "version": "27322925fe24fe2bede18cb79272ac08",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "packageJson": {
+        "name": "overlap.show",
+        "description": "Website for Goldsmiths MA Computation Arts 2017 final show",
+        "version": "1.0.0",
+        "author": "Charlotte Dann",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-plugin-transform-decorators-legacy",
+            "version": "^1.3.4"
+          },
+          {
+            "name": "classnames",
+            "version": "^2.2.5"
+          },
+          {
+            "name": "eslint",
+            "version": "4.1.0"
+          },
+          {
+            "name": "eslint-plugin-react",
+            "version": "7.1.0"
+          },
+          {
+            "name": "gatsby",
+            "version": "1.0.0-beta.5"
+          },
+          {
+            "name": "gatsby-link",
+            "version": "^1.0.0-alpha11-alpha.68e8f9a1"
+          },
+          {
+            "name": "gsap",
+            "version": "^1.19.1"
+          },
+          {
+            "name": "mobx",
+            "version": "^3.1.16"
+          },
+          {
+            "name": "mobx-react",
+            "version": "^4.2.1"
+          },
+          {
+            "name": "react",
+            "version": "15.6.1"
+          },
+          {
+            "name": "react-helmet",
+            "version": "4.0.0"
+          },
+          {
+            "name": "react-transition-group",
+            "version": "^1.2.0"
+          },
+          {
+            "name": "stylint",
+            "version": "1.5.9"
+          },
+          {
+            "name": "stylus",
+            "version": "^0.54.5"
+          },
+          {
+            "name": "stylus-loader",
+            "version": "^3.0.1"
+          }
+        ],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "id": "Plugin default-site-plugin",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "d6c368c44805c5543d9a91f70551091c",
+        "mediaType": "application/json",
+        "content": "{\"resolve\":\"C:/Users/Craticula/Documents/Websites/overlap.show\",\"name\":\"default-site-plugin\",\"version\":\"27322925fe24fe2bede18cb79272ac08\",\"pluginOptions\":{\"plugins\":[]}}",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "title": "OVERLAP",
+        "description": "MA Computational Arts Show 2017",
+        "keywords": "Goldsmiths, MA Computational Arts, MACompArts, Overlap Show, creative computing"
+      },
+      "port": "8000",
+      "host": "localhost",
+      "buildTime": "2017-06-25T20:30:55.015Z",
+      "id": "Site",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "f6289641501939856d756c84102631ad",
+        "content": "{\"siteMetadata\":{\"title\":\"OVERLAP\",\"description\":\"MA Computational Arts Show 2017\",\"keywords\":\"Goldsmiths, MA Computational Arts, MACompArts, Overlap Show, creative computing\"},\"port\":\"8000\",\"host\":\"localhost\",\"buildTime\":\"2017-06-25T20:30:55.015Z\"}",
+        "mediaType": "application/json",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "path": "/",
+      "component": "C:/Users/Craticula/Documents/Websites/overlap.show/src/pages/index.js",
+      "componentChunkName": "page-component---src-pages-index-js",
+      "jsonName": "index.json",
+      "internalComponentName": "ComponentIndex",
+      "context": {},
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "mediaType": "application/json",
+        "type": "SitePage",
+        "content": "{\"path\":\"/\",\"component\":\"C:/Users/Craticula/Documents/Websites/overlap.show/src/pages/index.js\",\"componentChunkName\":\"page-component---src-pages-index-js\",\"jsonName\":\"index.json\",\"internalComponentName\":\"ComponentIndex\",\"context\":{}}",
+        "contentDigest": "68f63a0b4fd7bb1e5e742df859ae1e7f",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "2f802ce74072b32f760f7ffb087f9c2b"
+  },
+  "pageDataDependencies": {
+    "nodes": {
+      "Site": [
+        "/"
+      ]
+    },
+    "connections": {
+      "SitePage": [
+        "/dev-404-page/"
+      ]
+    }
+  }
+}

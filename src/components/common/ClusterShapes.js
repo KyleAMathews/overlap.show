@@ -5,7 +5,7 @@ import TweenLite from 'gsap';
 
 import styles from './ClusterShapes.styl';
 
-import { randomMax, randomMinMax } from 'src/utils/numberUtils';
+import { randomMax, randomMinMax } from '../../utils/numberUtils';
 import SingleShape from './SingleShape';
 import Rectangle from './shapes/Rectangle';
 

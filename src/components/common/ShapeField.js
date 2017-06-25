@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import { observer, inject } from 'mobx-react';
 import TransitionGroup from 'react-transition-group/TransitionGroup';
 
-import { getOneOf, randomMax } from 'src/utils/numberUtils';
+import { getOneOf, randomMax } from '../../utils/numberUtils';
 
 import ShowTitle from './ShowTitle';
 import ClusterShapes from './ClusterShapes';

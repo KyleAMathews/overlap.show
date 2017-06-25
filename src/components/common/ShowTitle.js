@@ -3,12 +3,24 @@ import PropTypes from 'prop-types';
 
 import styles from './ShowTitle.styl';
 
-import { config } from 'config';
+const ShowTitle = () => {
+  const siteTitle = this.props.data.site.siteMetadata.title;
 
-const ShowTitle = () => (
-  <h1 className={styles.title}>
-    {config.siteTitle}
-  </h1>
-);
+  return (
+    <h1 className={styles.title}>
+      {siteTitle}
+    </h1>
+  );
+};
 
 export default ShowTitle;
+
+export const pageQuery = graphql`
+query TitleQuery {
+  site {
+    siteMetadata {
+      title
+    }
+  }
+}
+`

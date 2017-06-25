@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link } from 'react-router';
+import { Link } from 'gatsby-link';
 import { prefixLink } from 'gatsby-helpers';
 import { config } from 'config';
 
